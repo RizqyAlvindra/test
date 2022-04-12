@@ -3,3 +3,5 @@
 Hello there
 trigger
 test again
+
+`lol random`
